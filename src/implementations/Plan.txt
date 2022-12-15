@@ -1,0 +1,7 @@
+External functions
+- create plot
+- split plot
+- combine plot
+- revoke plot
+- buy plot
+- fund/defund account
