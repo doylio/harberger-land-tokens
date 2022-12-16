@@ -5,3 +5,6 @@ External functions
 - revoke plot
 - buy plot
 - fund/defund account
+
+
+I can create a new estate, setting the initial plots and the valuation
